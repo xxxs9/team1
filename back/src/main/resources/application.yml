@@ -5,3 +5,4 @@ spring:
       password: root
 mybatis:
    mapperLocations: classpath:/mapper/*.xml
+
